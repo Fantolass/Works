@@ -1,0 +1,5 @@
+print("Imprima na tela o valor de 21 / 6, observe o valor da variável resposta")
+print(21/6)
+print("   ")
+print("Imprima na tela o valor de 24 / 6, observe o valor da variável resposta")
+print(24/6)
